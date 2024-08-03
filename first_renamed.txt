@@ -1,0 +1,5 @@
+this is version 1 of my project
+i want to go thi in commit 2
+change by Javeria
+this is change now
+git command
